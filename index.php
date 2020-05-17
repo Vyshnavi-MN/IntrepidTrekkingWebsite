@@ -433,7 +433,7 @@ ul.sdt_menu li div.sdt_box a:hover{
 					</a>
 				</li>
 				<li>
-					<a href="register.php">
+					<a href="treks.php">
 						<img src="images/indexabout.jpg" alt=""/>
 						<span class="sdt_active"></span>
 						<span class="sdt_wrap">

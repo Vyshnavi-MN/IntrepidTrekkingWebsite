@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" crossorigin="anonymous">
     <link rel="stylesheet" href="profileStyle.css">
-    <title>User Prfiel and update</title>
+    <title>User Profile and update</title>
 </head>
 
 <body>
@@ -22,7 +22,7 @@
                     <?php endif; ?>
 
                     <div class="form-group">
-                        <img src="images/<?php echo $profileImageName;?>" onclick="triggerClick()" id="profileDisplay" style="width:5cm;height:5cm;margin-left:23%;">
+                        <img src="images/<?php echo $profileImageName?>" onclick="triggerClick()" id="profileDisplay" style="width:5cm;height:5cm;margin-left:23%;">
                         <label for="profileImage" style="margin-left:35%;">Profile Image</label>
                         <input type="file" name="profileImage" onchange="displayImage(this)" id="profileImage" style="display:none">
                     </div>

@@ -72,7 +72,7 @@
 						<li><a href="index.php">Home</a></li>
 							<li class="active"><a href="#">Our Blog</a></li>
               <li><a href="photogallery.php">Gallery</a></li>
-              <li><a href="upcoming.php">UpcomingTreks</a></li>
+              <li><a href="treks.php">UpcomingTreks</a></li>
 					</ul>
 				</nav>
 			</div>

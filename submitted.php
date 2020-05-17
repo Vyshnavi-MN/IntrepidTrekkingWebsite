@@ -20,7 +20,7 @@ INSERT INTO register(p_name,p_phone,p_email,p_age,p_bloodg,p_dob,t_id) values('$
         echo "inserted";
     };
 
-    $sql1 = "SELECT guide_name,locationpick,place from guide g, destination d where d.guide_id=g.guide_id and d.pid='$trekid'";
+    $sql1 = "SELECT guide_name,location_pick , trek_id from guide g, trek d where d.trek_id='$trekid' and g.t_id='$trekid'";
 
 
 //    $result =mysqli_query($GLOBALS['con'],$sql1);
@@ -35,7 +35,7 @@ INSERT INTO register(p_name,p_phone,p_email,p_age,p_bloodg,p_dob,t_id) values('$
         // output data of each row
         while ($row = $result->fetch_assoc()) {?>
         <h1> <?php  echo "This particular guide named ".$row["guide_name"];
-            echo "Will lead you through out the trek from ".$row["locationpick"] ?>"<br>";</h1>
+            echo " will lead you through out the trek from ".$row["location_pick"] ?></h1>
 <?php
         }
     }
