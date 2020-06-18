@@ -234,7 +234,7 @@
 				</ul>
 			</li>
 			<li class="nav-item">
-				<a href="login.php" class="btn btn-primary dropdown-toggle get-started-btn mt-1 mb-1">Log out</a>
+				<a href="logout.php" class="btn btn-primary dropdown-toggle get-started-btn mt-1 mb-1">Log out</a>
 				<ul class="dropdown-menu form-wrapper">
 
 </nav>
@@ -433,12 +433,12 @@ ul.sdt_menu li div.sdt_box a:hover{
 					</a>
 				</li>
 				<li>
-					<a href="treks.php">
+					<a href="equipment1.php">
 						<img src="images/indexabout.jpg" alt=""/>
 						<span class="sdt_active"></span>
 						<span class="sdt_wrap">
-							<span class="sdt_link">Register</span>
-							<span class="sdt_descr">To participate in our upcoming treks</span>
+							<span class="sdt_link">Trekking Equipments</span>
+							<span class="sdt_descr">Checkout our collections</span>
 						</span>
 					</a>
 				</li>

@@ -179,7 +179,7 @@ background-color: #FF4136;
                 <span class="help-block"></span>
             </div>
             <div class="form-group">
-                <button class="btn btn-primary">Login</button>
+                <button name="loggedin" class="btn btn-primary">Login</button>
             </div>
             <p>Don't have an account? <a href="register.php">Sign up now</a>.</p>
         </form>

@@ -43,7 +43,7 @@
   #header
 	{
 		position: relative;
-		background: #2a2f27 url(images/loginbg.jpg) no-repeat;
+		background: #2a2f27;
 		background-size: cover;
 	}
   a {
@@ -52,54 +52,54 @@
 </style>
 
   </head>
-  <body class="homepage" background="C:\Users\mnvys\OneDrive\Desktop\4th-sem\WebProject\images\imggrey.jfif">
+  <body class="homepage" background="images/imggrey.jfif">
     <header>
       <h1 style="color:grey;">Intrepid Family!</h1>
       <span class="byline" style="color:grey">We trek to learn - about life, about nature, about ourselves.</span>
     </header>
     <hr/>
     <main>
-      <div class =" box "> <img src ="C:\Users\mnvys\OneDrive\Desktop\4th-sem\WebProject\images\img1.jpg"> </div>
-      <div class =" box "> <img src ="C:\Users\mnvys\OneDrive\Desktop\4th-sem\WebProject\images\img2.jpg"> </div>
-      <div class =" box "> <img src ="C:\Users\mnvys\OneDrive\Desktop\4th-sem\WebProject\images\img3.jpg"> </div>
-      <div class =" box "> <img src ="C:\Users\mnvys\OneDrive\Desktop\4th-sem\WebProject\images\img4.jpg"> </div>
-      <div class =" box "> <img src ="C:\Users\mnvys\OneDrive\Desktop\4th-sem\WebProject\images\img5.jpg"> </div>
-      <div class =" box "> <img src ="C:\Users\mnvys\OneDrive\Desktop\4th-sem\WebProject\images\img6.jpg"> </div>
-      <div class =" box "> <img src ="C:\Users\mnvys\OneDrive\Desktop\4th-sem\WebProject\images\img7.jpg"> </div>
-      <div class =" box "> <img src ="C:\Users\mnvys\OneDrive\Desktop\4th-sem\WebProject\images\img8.jpg"> </div>
-      <div class =" box "> <img src ="C:\Users\mnvys\OneDrive\Desktop\4th-sem\WebProject\images\img9.jpg"> </div>
-      <div class =" box "> <img src ="C:\Users\mnvys\OneDrive\Desktop\4th-sem\WebProject\images\img10.jpg"> </div>
-      <div class =" box "> <img src ="C:\Users\mnvys\OneDrive\Desktop\4th-sem\WebProject\images\img12.jpg"> </div>
-      <div class =" box "> <img src ="C:\Users\mnvys\OneDrive\Desktop\4th-sem\WebProject\images\img13.jpg"> </div>
-      <div class =" box "> <img src ="C:\Users\mnvys\OneDrive\Desktop\4th-sem\WebProject\images\img14.jpg"> </div>
-      <div class =" box "> <img src ="C:\Users\mnvys\OneDrive\Desktop\4th-sem\WebProject\images\img15.jpg"> </div>
-      <div class =" box "> <img src ="C:\Users\mnvys\OneDrive\Desktop\4th-sem\WebProject\images\img16.jpg"> </div>
-      <div class =" box "> <img src ="C:\Users\mnvys\OneDrive\Desktop\4th-sem\WebProject\images\img1.jpg"> </div>
+      <div class =" box "> <img src ="images/img1.jpg"> </div>
+      <div class =" box "> <img src ="images/img2.jpg"> </div>
+      <div class =" box "> <img src ="images/img3.jpg"> </div>
+      <div class =" box "> <img src ="images/img4.jpg"> </div>
+      <div class =" box "> <img src ="images/img5.jpg"> </div>
+      <div class =" box "> <img src ="images/img6.jpg"> </div>
+      <div class =" box "> <img src ="images/img7.jpg"> </div>
+      <div class =" box "> <img src ="images/img8.jpg"> </div>
+      <div class =" box "> <img src ="images/img9.jpg"> </div>
+      <div class =" box "> <img src ="images/img10.jpg"> </div>
+      <div class =" box "> <img src ="images/img12.jpg"> </div>
+      <div class =" box "> <img src ="images/img13.jpg"> </div>
+      <div class =" box "> <img src ="images/img14.jpg"> </div>
+      <div class =" box "> <img src ="images/img15.jpg"> </div>
+      <div class =" box "> <img src ="images/img16.jpg"> </div>
+      <div class =" box "> <img src ="images/img1.jpg"> </div>
       <div class ="box">
         <video width="500" height="300" controls>
-        <source src="C:\Users\mnvys\OneDrive\Desktop\4th-sem\WebProject\video.mp4" type="video/mp4">
+        <source src="video.mp4" type="video/mp4">
       </div>
       <div class ="box">
         <video width="500" height="300" controls>
-        <source src="C:\Users\mnvys\OneDrive\Desktop\4th-sem\WebProject\video1.mp4" type="video/mp4">
+        <source src="video1.mp4" type="video/mp4">
       </div>
       <div class ="box">
         <video width="500" height="300" controls>
-        <source src="C:\Users\mnvys\OneDrive\Desktop\4th-sem\WebProject\video3.mp4" type="video/mp4">
+        <source src="video3.mp4" type="video/mp4">
         <source src="movie.mp4" type="video/mp4">
       </div>
       <div class ="box">
         <video width="500" height="300" controls>
-        <source src="C:\Users\mnvys\OneDrive\Desktop\4th-sem\WebProject\video4.mp4" type="video/mp4">
+        <source src="video4.mp4" type="video/mp4">
         <source src="movie.mp4" type="video/mp4">
       </div>
-      <div class =" box "> <img src ="C:\Users\mnvys\OneDrive\Desktop\4th-sem\WebProject\images\img20.jpeg"> </div>
-      <div class =" box "> <img src ="C:\Users\mnvys\OneDrive\Desktop\4th-sem\WebProject\images\img21.jpeg"> </div>
-        <div class =" box "> <img src ="C:\Users\mnvys\OneDrive\Desktop\4th-sem\WebProject\images\img22.jpeg"> </div>
+      <div class =" box "> <img src ="images/img20.jpeg"> </div>
+      <div class =" box "> <img src ="images/img21.jpeg"> </div>
+        <div class =" box "> <img src ="images/img22.jpeg"> </div>
     </main>
 
     <div class="form-group">
-      <a href="welcome.html" class="btn btn-danger">Back</a>
+      <a href="welcome.php" class="btn btn-danger">Back</a>
     </div>
     <!--<footer>
       <div class="form-group">
